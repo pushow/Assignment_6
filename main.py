@@ -2,7 +2,7 @@ from typing import List
 
 
 
-# added text by pushow
+# practice 05 23
 
 
 def path_to_file_list(path: str) -> List[str]:
